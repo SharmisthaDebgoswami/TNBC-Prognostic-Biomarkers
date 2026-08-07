@@ -1,0 +1,11 @@
+Gene,Hazard Ratio,95% CI,Log-rank p-value,Interpretation
+ESR1,0.64,0.58–0.71,<1E-16,Better survival
+FOXA1,,,,
+GATA3,,,,
+ERBB2,,,,
+AGR2,,,,
+AR,,,,
+XBP1,,,,
+FOXC1,,,,
+GRB7,,,,
+SOX10,,,,

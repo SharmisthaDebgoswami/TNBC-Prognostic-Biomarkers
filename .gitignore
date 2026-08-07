@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Google Colab
+/content/
+sample_data/
+
+# Virtual environments
+venv/
+env/
+.environment/
+.venv/
+
+# VS Code
+.vscode/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Environment variables
+.env
+
+# Large model/checkpoint files
+*.pkl
+*.joblib
+
+# Temporary files
+*.tmp
+*.bak
+
+# CatBoost
+catboost_info/
+
+# Temporary notebooks
+*.tmp.ipynb
+
+# Colab
+sample_data/
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Large datasets
+data/raw/*.gz
+data/processed/TCGA_BRCA_expression_processed.csv
+data/processed/expression_filtered.csv
+
+# Jupyter exports
+*.html
+*_files/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+environment/
+.venv/
+venv/
+
+# Temporary folders
+.virtual_documents/
+
+# CatBoost
+catboost_info/
+
+# Large datasets
+data/raw/*.gz
+data/processed/TCGA_BRCA_expression_processed.csv
+data/processed/expression_filtered.csv
