@@ -1,4 +1,4 @@
-# 🧬 Machine Learning-Based Prognostic Biomarker Discovery in Triple-Negative Breast Cancer (TNBC)
+# 🧬 Machine Learning–Based Classification and Biomarker Discovery in Triple-Negative Breast Cancer (TNBC)
 
 > An end-to-end computational biology pipeline integrating machine learning, bioinformatics, network biology, survival analysis, and explainable AI for the identification of prognostic biomarkers in Triple-Negative Breast Cancer.
 
